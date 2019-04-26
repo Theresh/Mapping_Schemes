@@ -239,14 +239,39 @@ A brief description about the mapping schemes and constallation of PSK and APSK 
 %\IEEEpeerreviewmaketitle
 
 \section{PSK}
+\begin{equation}
+Y=X+N
+\end{equation}
+\begin{equation}
+X_i= e^{j \frac{2\pi n}{M}} \quad n=0,1,\dots.M-1
+\end{equation}
+Where $M$ is mapping order.
+\subsection{QPSK}
+\begin{figure}[!ht]
+\begin{center}
+\includegraphics[width=\columnwidth]{./figs/qpsk}
+\end{center}
+\caption{Constellation diagram of QPSK}
+\label{fig:qpsk}
+\end{figure}
+Fig. \ref{fig:qpsk} Shows the Constellation mapping for QPSK symbols.
 
+\subsection{8PSK}
+\begin{figure}[!ht]
+\begin{center}
+\includegraphics[width=\columnwidth]{./figs/8psk}
+\end{center}
+\caption{Constellation diagram of 8PSK}
+\label{fig:8psk}
+\end{figure}
+Fig. \ref{fig:8psk} Shows the Constellation mapping for 8-PSK symbols.
 \section{APSK}
 \begin{equation}
 Y=X+N
 \end{equation}
 \subsection{16-APSK}
 \begin{equation}
-X=
+X_n=
 \begin{cases}
 r_1 e^{j\brak{\phi_1+\frac{2\pi}{4}n}}& n=0,1,2,3\\
 r_2 e^{j\brak{\phi_2+\frac{2\pi}{12}n}}& n=0,1,\dots,11

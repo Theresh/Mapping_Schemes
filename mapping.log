@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2018.1.31)  26 APR 2019 16:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2018.1.31)  26 APR 2019 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,20 +586,27 @@ Underfull \hbox (badness 2512) in paragraph at lines 234--237
  map-ping
  []
 
+File: ./figs/qpsk.eps Graphic file (type eps)
+<./figs/qpsk.eps>
+File: ./figs/8psk.eps Graphic file (type eps)
+ <./figs/8psk.eps>
 File: ./figs/16apsk.eps Graphic file (type eps)
-<./figs/16apsk.eps>
+ <./figs/16apsk.eps>
 File: ./figs/32APSK.eps Graphic file (type eps)
- <./figs/32APSK.eps> (./mapping.bbl) [1
+ <./figs/32APSK.eps>
+[1
 
+
+] (./mapping.bbl) [2
 
 ] (./mapping.aux) ) 
 Here is how much of TeX's memory you used:
- 7273 strings out of 493305
- 106865 string characters out of 6139897
- 168286 words of memory out of 5000000
- 10606 multiletter control sequences out of 15000+600000
+ 7279 strings out of 493305
+ 106931 string characters out of 6139897
+ 170286 words of memory out of 5000000
+ 10610 multiletter control sequences out of 15000+600000
  62210 words of font info for 151 fonts, out of 8000000 for 9000
  960 hyphenation exceptions out of 8191
  36i,9n,38p,241b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mapping.dvi (1 page, 4760 bytes).
+Output written on mapping.dvi (2 pages, 6412 bytes).
