@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2018.1.31)  9 MAY 2019 10:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2018.1.31)  9 MAY 2019 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -580,33 +580,39 @@ File: utxsyc.fd 2000/12/15 v3.1
 \tf@toc=\write3
 \openout3 = `mapping.toc'.
 
+File: ./figs/qpsk.eps Graphic file (type eps)
 
-Underfull \hbox (badness 2512) in paragraph at lines 234--237
-[]\OT1/txr/bx/it/10 Abstract\OT1/txr/bx/n/10 ---A brief de-scrip-tion about the
- map-ping
+<./figs/qpsk.eps>
+File: ./figs/QPSK.eps Graphic file (type eps)
+ <./figs/QPSK.eps>
+File: ./figs/8psk.eps Graphic file (type eps)
+ <./figs/8psk.eps> [1
+
+
+]
+File: ./figs/8PSK.eps Graphic file (type eps)
+ <./figs/8PSK.eps>
+File: ./figs/16apsk.eps Graphic file (type eps)
+
+<./figs/16apsk.eps>
+File: ./figs/apsk16.eps Graphic file (type eps)
+ <./figs/apsk16.eps>
+Overfull \hbox (24.30696pt too wide) in paragraph at lines 357--357
+[] 
  []
 
-File: ./figs/qpsk.eps Graphic file (type eps)
-<./figs/qpsk.eps>
-File: ./figs/8psk.eps Graphic file (type eps)
- <./figs/8psk.eps>
-File: ./figs/16apsk.eps Graphic file (type eps)
- <./figs/16apsk.eps>
+[2]
 File: ./figs/32APSK.eps Graphic file (type eps)
  <./figs/32APSK.eps>
-[1
-
-
-] (./mapping.bbl) [2
-
-] (./mapping.aux) ) 
+File: ./figs/apsk32.eps Graphic file (type eps)
+ <./figs/apsk32.eps> (./mapping.bbl) [3] (./mapping.aux) ) 
 Here is how much of TeX's memory you used:
- 7279 strings out of 493305
- 106931 string characters out of 6139897
- 170286 words of memory out of 5000000
- 10610 multiletter control sequences out of 15000+600000
+ 7291 strings out of 493305
+ 107079 string characters out of 6139897
+ 174286 words of memory out of 5000000
+ 10618 multiletter control sequences out of 15000+600000
  62210 words of font info for 151 fonts, out of 8000000 for 9000
  960 hyphenation exceptions out of 8191
  36i,9n,38p,241b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mapping.dvi (2 pages, 6424 bytes).
+Output written on mapping.dvi (3 pages, 12300 bytes).
